@@ -15,4 +15,5 @@ You can navigate back to the previous page by swiping from the far left of the s
  You can navigate forward by swiping from the far right of the screen toward the center.
  
 ## Install
-This extension will be available for installl on the Firefox web store.
+You can install this extension from the Mozzilla web store
+https://addons.mozilla.org/addon/touch-navigate/
